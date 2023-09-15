@@ -1,0 +1,5 @@
+1.- Crear el navbar con el logot en horizontal y abajo las siguientes pestañas
+MPFM, Generadores, Cajas, Tuberia, Computadoras, Vehículos, Racks
+
+Para los MPFM en el mismo index.html crear 12 cards, la información a mostrar seria:
+TAG, Status, Nota, Proyecto, Foto
